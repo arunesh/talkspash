@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Talkbox Assistant</string>
+    <string name="talkbox_title">Talkbox Assistant</string>
+    <string name="pause">Pause</string>
+    <string name="continueRecognition">Continue</string>
+    <string name="translate">Translate</string>
+    <string name="english">English</string>
+    <string name="chinese">Chinese</string>
+    <string name="spanish">Spanish</string>
+    <string name="foreign">Foreign</string>
+    <string name="french">French</string>
+    <string name="german">German</string>
+    <string name="japanese">Japanese</string>
+    <string name="russian">Russian</string>
+    <string name="korean">Korean</string>
+    <string name="portuguese">Portuguese</string>
+    <string name="indonesian">Indonesian</string>
+    <string name="preparing">Initializing Talkbox ...</string>
+    <string name="app_not_ready">App not ready.</string>
+    <string name="ready">Talkbox Ready.</string>
+    <string name="working">Talkbox Working...</string>
+    <string name="listening_english">Listening in English.</string>
+    <string name="listening_chinese">Listening in Chinese.</string>
+</resources>
